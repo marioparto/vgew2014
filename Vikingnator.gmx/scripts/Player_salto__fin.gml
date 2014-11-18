@@ -1,0 +1,1 @@
+saltando = false;
